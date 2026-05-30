@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Janarthanan%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20Turning%20Raw%20Data%20into%20Real%20Insights&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Janarthanan%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Real%20Insights&descAlignY=62&descSize=16" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Janarthanan+%F0%9F%91%8B;Data+Scientist+%7C+ML+%7C+Python+%7C+Power+BI;Turning+Raw+Data+into+Business+Insights;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Janarthanan+%F0%9F%91%8B;MS+Excel+%7C+MySQL+%7C+ML+%7C+Python+%7C+Power+BI;Turning+Raw+Data+into+Business+Insights;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=janarthananm&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
   <a href="mailto:mjanarthanan2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-mjanarthanan2005-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/janarthananm"><img src="https://img.shields.io/badge/LinkedIn-Janarthanan%20M-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/janarthanan-marimuthu-2005m"><img src="https://img.shields.io/badge/LinkedIn-Janarthanan%20M-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ```python
 class Janarthanan:
     name       = "Janarthanan M"
-    location   = "Sathyamangalam, Tamil Nadu 🇮🇳"
+    location   = "Sathyamangalam, Tamil Nadu"
     degree     = "B.Sc. Computer Science — Gobi Arts & Science College"
     email      = "mjanarthanan2005@gmail.com"
     
@@ -173,7 +173,7 @@ class Janarthanan:
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| B.Sc. Computer Science | Gobi Arts & Science College, Gobichettipalayam | Jun 2022 – May 2025 | — |
+| B.Sc. Computer Science | Gobi Arts & Science College, Gobichettipalayam | Jun 2022 – May 2025 | 72.1% |
 
 </div>
 
@@ -197,10 +197,10 @@ class Janarthanan:
   <a href="mailto:mjanarthanan2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/janarthananm">
+  <a href="https://linkedin.com/in/janarthanan-marimuthu-2005m">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/janarthananm">
+  <a href="https://github.com/janarthanan-lang">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
