@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=janarthananm&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
   <a href="mailto:mjanarthanan2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-mjanarthanan2005-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/janarthanan-marimuthu-2005m"><img src="https://img.shields.io/badge/LinkedIn-Janarthanan%20M-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/mjanarthanan"><img src="https://img.shields.io/badge/LinkedIn-Janarthanan%20M-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -197,7 +197,7 @@ class Janarthanan:
   <a href="mailto:mjanarthanan2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/janarthanan-marimuthu-2005m">
+  <a href="www.linkedin.com/in/mjanarthanan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/janarthanan-lang">
