@@ -58,8 +58,15 @@ class Janarthanan:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+
+**Backend & Web**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Analytics & BI**
 
@@ -115,6 +122,21 @@ class Janarthanan:
 ## 💼 Work Experience
 
 <details>
+  <summary><strong>Infotact Solutions</strong> — Data Science Intern &nbsp;|&nbsp; 2026 &nbsp;|&nbsp; Tamil Nadu, India</summary>
+  <br/>
+
+  > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  > ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  > ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+  > ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+  - Built **AcousticSpace**, a deepfake audio detection system with a CNN classifier (PyTorch) served via a **FastAPI** backend.
+  - Designed a **React + Vite** dashboard for real-time visualization of detection results.
+  - Presented project progress at a mid-project review using a 9-slide technical walkthrough.
+
+</details>
+
+<details>
   <summary><strong>KGiSL MicroCollege</strong> — Data Analyst & Data Scientist Intern &nbsp;|&nbsp; Sep 2025 – Nov 2025 &nbsp;|&nbsp; Tamil Nadu, India</summary>
   <br/>
 
@@ -139,6 +161,7 @@ class Janarthanan:
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
+| 🎙️ **AcousticSpace — Deepfake Audio Detection** | FastAPI · PyTorch CNN · React + Vite | Full-stack deepfake audio classifier — CNN model served via FastAPI backend with a real-time React/Vite detection dashboard |
 | 🏢 **Employee Attrition Prediction** | Python · Random Forest · Logistic Regression | ~**87% accuracy** & **0.84 ROC-AUC** on 1,470 HR records; identified top 5 attrition drivers (overtime, job satisfaction, distance, income, tenure) |
 | 📱 **Flipkart Mobile Price Analysis** | Python · K-Means · Random Forest | End-to-end pipeline on 1,200+ listings; **91% accuracy** post-tuning; segmented devices into **4 market tiers** |
 | 💻 **Laptop Price Analysis** | Python · EDA · Seaborn | EDA on 1,300 records; 12 annotated visuals; SSD + GPU account for up to **35% price premium** |
@@ -159,6 +182,7 @@ class Janarthanan:
 | 🎓 | **Data Analyst & Data Scientist Certification** | KGiSL MicroCollege — 2025 |
 | 🐍 | **Python Fundamentals Certification** | Great Learning — 2025 |
 | 🤖 | **Generative AI: Introduction & Application** | Coursera — 2025 |
+| 🎙️ | **Deepfake Audio Detection System Shipped** | AcousticSpace — FastAPI + PyTorch CNN + React dashboard |
 | 📊 | **ML Model: 91% Accuracy** | Flipkart Mobile Price Analysis after hyperparameter tuning |
 | 🔍 | **87% Accuracy & 0.84 ROC-AUC** | Employee Attrition Prediction on 1,470 HR records |
 | 🌐 | **150+ Countries Analysed** | Global Economic & Population dashboard with 8+ Power BI visuals |
