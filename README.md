@@ -140,8 +140,8 @@ class Janarthanan:
 | 🏅 | Achievement | Details |
 |----|-------------|---------|
 | 🎓 | **Data Analyst & Data Scientist Certification** | KGiSL MicroCollege — 2025 |
-| 🐍 | **Python Fundamentals Certification** | Great Learning — 2025 |
-| 🤖 | **Generative AI: Introduction & Application** | Coursera — 2026 |
+| 🐍 | **Python Fundamentals Certification** | Coursera — 2026 |
+| 🤖 | **Generative AI: Introduction & Application** | Coursera — 2025 |
 
 </div>
 
@@ -175,7 +175,7 @@ class Janarthanan:
 
 <p align="center">
   <a href="mailto:mjanarthanan2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mjanarthanan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
