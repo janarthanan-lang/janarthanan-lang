@@ -82,22 +82,6 @@ class Janarthanan:
 
 ---
 
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=janarthananm&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janarthananm&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
----
-
 ## 💼 Work Experience
 
 <details>
@@ -160,11 +144,7 @@ class Janarthanan:
 |----|-------------|---------|
 | 🎓 | **Data Analyst & Data Scientist Certification** | KGiSL MicroCollege — 2025 |
 | 🐍 | **Python Fundamentals Certification** | Great Learning — 2025 |
-| 🤖 | **Generative AI: Introduction & Application** | Coursera — 2025 |
-| 🎙️ | **Deepfake Audio Detection System Shipped** | AcousticSpace — FastAPI + PyTorch CNN + React dashboard |
-| 📊 | **ML Model: 91% Accuracy** | Flipkart Mobile Price Analysis after hyperparameter tuning |
-| 🔍 | **87% Accuracy & 0.84 ROC-AUC** | Employee Attrition Prediction on 1,470 HR records |
-| 🌐 | **150+ Countries Analysed** | Global Economic & Population dashboard with 8+ Power BI visuals |
+| 🤖 | **Generative AI: Introduction & Application** | Coursera — 2026 |
 
 </div>
 
