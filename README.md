@@ -35,10 +35,7 @@ class Janarthanan:
         "Generative AI & LLMs",
     ]
     
-    fun_fact   = "I once found a 40%+ pay gap story hidden in 5,000 rows of salary data 📊"
-    
-    def motto(self):
-        return "Data is everywhere — insight is the art of knowing where to look."
+    "Data is everywhere — insight is the art of knowing where to look."
 ```
 
 <br clear="right"/>
