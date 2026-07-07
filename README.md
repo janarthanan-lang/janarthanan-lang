@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=janarthananm&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
-  <a href="mailto:mjanarthanan2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-mjanarthanan2005@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mjanarthanan2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-mjanarthanan2005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mjanarthanan"><img src="https://img.shields.io/badge/LinkedIn-Janarthanan%20M-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
